@@ -19,3 +19,12 @@ h1, h2 {
     background-color: lime;
 }
 
+#liste {
+    width: 25%;
+    background-color: yellow;
+    position: relative;
+    border: 5px dashed;
+    padding: 20px;
+    margin: auto;
+    text-align: justify;
+}
